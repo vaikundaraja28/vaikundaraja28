@@ -167,11 +167,11 @@ IoT Intern at **Emglitz Technologies** — hardware interfacing, debugging, and 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikundaraja28&layout=compact&theme=tokyonight&hide_border=true&title_color=764ba2&text_color=c9c9e8&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaikundaraja28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaikundaraja28&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=c9c9e8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaikundaraja28&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
 </div>
 
