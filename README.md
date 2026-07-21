@@ -16,29 +16,20 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
-```yaml
-name: Vaikunda Raja S
-role: Final-year ECE Student
-focus: AI, Python, IoT & Embedded Systems
-currently_building: AI-powered Mock Interview Platform
-currently_learning: Full-stack web development
-looking_to_collaborate: AI/ML projects, IoT-based embedded solutions
-fun_fact: Ships projects faster using Claude Code, Cursor & Copilot
-```
+Final-year Electronics and Communication Engineering student building at the intersection of **embedded systems** and **AI/software development**. I enjoy taking a project from hardware concept to a working, deployable solution.
 
-- 🔭 Currently building an **AI Mock Interview Platform** — interview simulation, resume analysis & automated candidate evaluation
-- 🌱 Currently deepening my **Python, AI/ML, and full-stack web dev** skills
-- 🛠️ Built a real-time **Patient Health Monitoring System** and an **RFID Attendance System** (RTC module)
-- 💼 IoT Intern @ **Emglitz Technologies** — hardware interfacing, debugging & system validation
-- 👯 Open to collaborating on **AI/ML** and **IoT embedded** projects
-- 💬 Ask me about **Python, Embedded C, Arduino, IoT**, or AI coding tools
-- 📫 **vaikundaraja028@gmail.com** | +91-9788899018
+- 🔭 Currently building an **AI Mock Interview Platform** — interview simulation, resume analysis, and automated candidate evaluation
+- 🌱 Currently strengthening my skills in **Python, AI/ML, and full-stack web development**
+- 🛠️ Past work includes a real-time **Patient Health Monitoring System** and an **RFID-based Attendance System**
+- 💼 IoT Intern at **Emglitz Technologies** — hardware interfacing, debugging, and system validation
+- 🤝 Open to collaborating on **AI/ML** and **IoT/embedded systems** projects
+- 📫 Reach me at **vaikundaraja028@gmail.com**
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,23 +41,15 @@ fun_fact: Ships projects faster using Claude Code, Cursor & Copilot
 <br/>
 <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
 
-**AI Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=github" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-
 **Developer Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma" />
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,oracle" />
 
 </div>
 
 <br/>
 
-## 🎓 Certifications
+## Certifications
 
 <div align="center">
 
@@ -80,26 +63,17 @@ fun_fact: Ships projects faster using Claude Code, Cursor & Copilot
 
 <br/>
 
-## 💼 Featured Projects
+## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/vaikundaraja28/AI-Mock-Interview-Platform">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=vaikundaraja28&repo=AI-Mock-Interview-Platform&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/vaikundaraja28/patient-health-monitoring-system">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=vaikundaraja28&repo=patient-health-monitoring-system&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/vaikundaraja28/RFID-Attendance-System-Using-RTC">
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=vaikundaraja28&repo=RFID-Attendance-System-Using-RTC&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [**AI Mock Interview Platform**](https://github.com/vaikundaraja28/AI-Mock-Interview-Platform) | AI-powered mock interview platform with interview simulation, resume analysis, and automated candidate evaluation | Python, Streamlit, Google Gemini AI |
+| [**Patient Health Monitoring System**](https://github.com/vaikundaraja28/patient-health-monitoring-system) | Arduino-based system using an LM35 temperature sensor and heart rate sensor for real-time vital monitoring with LED/buzzer alerts | Arduino, C++, Sensors |
+| [**RFID Attendance System Using RTC**](https://github.com/vaikundaraja28/RFID-Attendance-System-Using-RTC) | Automated attendance system using an EM-18 RFID reader and DS1307 RTC module for real-time, timestamped logging | Arduino Uno, C++, Proteus |
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -115,3 +89,4 @@ fun_fact: Ships projects faster using Claude Code, Cursor & Copilot
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+
