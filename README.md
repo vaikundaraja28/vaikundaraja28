@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Vaikunda%20Raja%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-year%20ECE%20Student%20%7C%20AI%20%26%20Embedded%20Systems&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Vaikunda%20Raja%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-year%20ECE%20Student%20%7C%20AI%20and%20Embedded%20Systems&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/svaikundaraja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vaikundaraja028@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
